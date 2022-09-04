@@ -25,7 +25,7 @@ Divvy_Trips_2019_Q3.zip  - 1640718 rows
 3.    Documentation of any cleaning or manipulation of data 
 
 To examine and clean the Data I used Kevin Hartman script with some changes. Kevin's Harman script can be found here: https://artscience.blog/home/divvy-dataviz-case-study or here: https://docs.google.com/document/d/1TTj5KNKf4BWvEORGm10oNbpwTRk1hamsWJGj6qRWpuI/edit
-
+```r
 # # # # # # # # # # # # # # # # # # # # # # # 
 # Install required packages
 # tidyverse for data import and wrangling
